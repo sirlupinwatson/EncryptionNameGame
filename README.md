@@ -11,7 +11,7 @@ https://code.visualstudio.com/
 
 3- *Create a new file and Copy/Paste the code from the file pythonEncryptionNameGame.py* and save it!
 
-4- *Hit Left Shift + Enter to run the game and guess the number!*
+4- *Hit Left Shift + Enter to run the game and try different encryption!*
 
 ![PythonEncryptionNameGame](https://user-images.githubusercontent.com/55941045/138540904-58173339-a0f7-49db-8a65-99a21f982b78.png)
 
