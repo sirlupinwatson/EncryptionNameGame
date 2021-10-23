@@ -1,6 +1,6 @@
 # Python 3.9.7 Encryption Name Game
 
-Encrypt a name in numbers using a Caesar cipher!
+Encrypt a name with numbers using a Caesar cipher!
 You can choose different numbers to encrypt your name from 1 to over 50 000 different combinaison! 
 
 1- *Start by Installing Visual Studio Code* 
